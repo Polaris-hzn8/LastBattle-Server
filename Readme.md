@@ -10,11 +10,6 @@ Below is the structure of this project：
 
 ![img](Document/image/LastBattle.jpg)
 
-### Client
-
-[Client](./Client) source files include a standalone project.
-
--------
 ### Database
 
 Using SQL sentence below to solve `Authentication plugin 'caching_sha2_password' cannot be loaded` issue:
